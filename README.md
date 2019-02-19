@@ -1,1 +1,2 @@
-# spenelis
+# BoredBot
+BoredBot
